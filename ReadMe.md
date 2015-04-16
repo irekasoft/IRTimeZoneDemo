@@ -9,9 +9,8 @@ This is a simple test for time zone for current time.
 
 ## Screenshots
 
-[[ Screenshots/ss1.png | height = 100px ]]
 <img src="Screenshots/ss1.png" alt="alt text" width="320" />
-![Screenshot](Screenshots/ss1.png)
+
 
 ---
 
