@@ -17,6 +17,7 @@
 		A3E344A61ADF94D0002CA211 /* IRTimeZoneController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3E344A41ADF94D0002CA211 /* IRTimeZoneController.m */; };
 		A3E344A71ADF94D0002CA211 /* IRTimeZoneController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3E344A51ADF94D0002CA211 /* IRTimeZoneController.xib */; };
 		A3E344A91ADF9E72002CA211 /* ReadMe.md in Sources */ = {isa = PBXBuildFile; fileRef = A3E344A81ADF9E72002CA211 /* ReadMe.md */; };
+		A3E344AC1ADF9EF3002CA211 /* ss1.png in Resources */ = {isa = PBXBuildFile; fileRef = A3E344AB1ADF9EF3002CA211 /* ss1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A3E344A41ADF94D0002CA211 /* IRTimeZoneController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = IRTimeZoneController.m; path = IRTimeZone/IRTimeZoneController.m; sourceTree = "<group>"; };
 		A3E344A51ADF94D0002CA211 /* IRTimeZoneController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = IRTimeZoneController.xib; path = IRTimeZone/IRTimeZoneController.xib; sourceTree = "<group>"; };
 		A3E344A81ADF9E72002CA211 /* ReadMe.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
+		A3E344AB1ADF9EF3002CA211 /* ss1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				A3E344A81ADF9E72002CA211 /* ReadMe.md */,
+				A3E344AA1ADF9EF3002CA211 /* Screenshots */,
 				A3E3447C1ADF93D5002CA211 /* IRTimeZoneDemo */,
 				A3E344961ADF93D5002CA211 /* IRTimeZoneDemoTests */,
 				A3E3447B1ADF93D5002CA211 /* Products */,
@@ -128,6 +131,14 @@
 				A3E344981ADF93D5002CA211 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A3E344AA1ADF9EF3002CA211 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				A3E344AB1ADF9EF3002CA211 /* ss1.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,6 +223,7 @@
 			files = (
 				A3E344891ADF93D5002CA211 /* Main.storyboard in Resources */,
 				A3E3448E1ADF93D5002CA211 /* LaunchScreen.xib in Resources */,
+				A3E344AC1ADF9EF3002CA211 /* ss1.png in Resources */,
 				A3E3448B1ADF93D5002CA211 /* Images.xcassets in Resources */,
 				A3E344A71ADF94D0002CA211 /* IRTimeZoneController.xib in Resources */,
 			);
