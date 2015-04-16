@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "IRTimeZoneController.h"
 
 @interface ViewController : UIViewController
 

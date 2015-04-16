@@ -16,7 +16,17 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+
+
+    
+}
+
+- (void)viewDidAppear:(BOOL)animated{
+    [super viewDidAppear:animated];
+    
+    IRTimeZoneController *timeZoneController = [[IRTimeZoneController alloc] init];
+    [self presentViewController:timeZoneController animated:YES completion:nil];
+    
 }
 
 - (void)didReceiveMemoryWarning {

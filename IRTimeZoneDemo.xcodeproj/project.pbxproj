@@ -14,6 +14,8 @@
 		A3E3448B1ADF93D5002CA211 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3E3448A1ADF93D5002CA211 /* Images.xcassets */; };
 		A3E3448E1ADF93D5002CA211 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3E3448C1ADF93D5002CA211 /* LaunchScreen.xib */; };
 		A3E3449A1ADF93D5002CA211 /* IRTimeZoneDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A3E344991ADF93D5002CA211 /* IRTimeZoneDemoTests.m */; };
+		A3E344A61ADF94D0002CA211 /* IRTimeZoneController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3E344A41ADF94D0002CA211 /* IRTimeZoneController.m */; };
+		A3E344A71ADF94D0002CA211 /* IRTimeZoneController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3E344A51ADF94D0002CA211 /* IRTimeZoneController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,9 @@
 		A3E344931ADF93D5002CA211 /* IRTimeZoneDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IRTimeZoneDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3E344981ADF93D5002CA211 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A3E344991ADF93D5002CA211 /* IRTimeZoneDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRTimeZoneDemoTests.m; sourceTree = "<group>"; };
+		A3E344A31ADF94D0002CA211 /* IRTimeZoneController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IRTimeZoneController.h; path = IRTimeZone/IRTimeZoneController.h; sourceTree = "<group>"; };
+		A3E344A41ADF94D0002CA211 /* IRTimeZoneController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = IRTimeZoneController.m; path = IRTimeZone/IRTimeZoneController.m; sourceTree = "<group>"; };
+		A3E344A51ADF94D0002CA211 /* IRTimeZoneController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = IRTimeZoneController.xib; path = IRTimeZone/IRTimeZoneController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +91,9 @@
 				A3E344841ADF93D5002CA211 /* ViewController.h */,
 				A3E344851ADF93D5002CA211 /* ViewController.m */,
 				A3E344871ADF93D5002CA211 /* Main.storyboard */,
+				A3E344A31ADF94D0002CA211 /* IRTimeZoneController.h */,
+				A3E344A41ADF94D0002CA211 /* IRTimeZoneController.m */,
+				A3E344A51ADF94D0002CA211 /* IRTimeZoneController.xib */,
 				A3E3448A1ADF93D5002CA211 /* Images.xcassets */,
 				A3E3448C1ADF93D5002CA211 /* LaunchScreen.xib */,
 				A3E3447D1ADF93D5002CA211 /* Supporting Files */,
@@ -202,6 +210,7 @@
 				A3E344891ADF93D5002CA211 /* Main.storyboard in Resources */,
 				A3E3448E1ADF93D5002CA211 /* LaunchScreen.xib in Resources */,
 				A3E3448B1ADF93D5002CA211 /* Images.xcassets in Resources */,
+				A3E344A71ADF94D0002CA211 /* IRTimeZoneController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +231,7 @@
 				A3E344861ADF93D5002CA211 /* ViewController.m in Sources */,
 				A3E344831ADF93D5002CA211 /* AppDelegate.m in Sources */,
 				A3E344801ADF93D5002CA211 /* main.m in Sources */,
+				A3E344A61ADF94D0002CA211 /* IRTimeZoneController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
