@@ -9,7 +9,9 @@ This is a simple test for time zone for current time.
 
 ## Screenshots
 
-![Screenshot](Screenshots/ss1.png =250x)
+[[ Screenshots/ss1.png | height = 100px ]]
+
+![Screenshot](Screenshots/ss1.png)
 
 ---
 
