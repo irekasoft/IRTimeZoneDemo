@@ -16,6 +16,7 @@
 		A3E3449A1ADF93D5002CA211 /* IRTimeZoneDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A3E344991ADF93D5002CA211 /* IRTimeZoneDemoTests.m */; };
 		A3E344A61ADF94D0002CA211 /* IRTimeZoneController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3E344A41ADF94D0002CA211 /* IRTimeZoneController.m */; };
 		A3E344A71ADF94D0002CA211 /* IRTimeZoneController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3E344A51ADF94D0002CA211 /* IRTimeZoneController.xib */; };
+		A3E344A91ADF9E72002CA211 /* ReadMe.md in Sources */ = {isa = PBXBuildFile; fileRef = A3E344A81ADF9E72002CA211 /* ReadMe.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		A3E344A31ADF94D0002CA211 /* IRTimeZoneController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IRTimeZoneController.h; path = IRTimeZone/IRTimeZoneController.h; sourceTree = "<group>"; };
 		A3E344A41ADF94D0002CA211 /* IRTimeZoneController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = IRTimeZoneController.m; path = IRTimeZone/IRTimeZoneController.m; sourceTree = "<group>"; };
 		A3E344A51ADF94D0002CA211 /* IRTimeZoneController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = IRTimeZoneController.xib; path = IRTimeZone/IRTimeZoneController.xib; sourceTree = "<group>"; };
+		A3E344A81ADF9E72002CA211 /* ReadMe.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 		A3E344711ADF93D5002CA211 = {
 			isa = PBXGroup;
 			children = (
+				A3E344A81ADF9E72002CA211 /* ReadMe.md */,
 				A3E3447C1ADF93D5002CA211 /* IRTimeZoneDemo */,
 				A3E344961ADF93D5002CA211 /* IRTimeZoneDemoTests */,
 				A3E3447B1ADF93D5002CA211 /* Products */,
@@ -232,6 +235,7 @@
 				A3E344831ADF93D5002CA211 /* AppDelegate.m in Sources */,
 				A3E344801ADF93D5002CA211 /* main.m in Sources */,
 				A3E344A61ADF94D0002CA211 /* IRTimeZoneController.m in Sources */,
+				A3E344A91ADF9E72002CA211 /* ReadMe.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
