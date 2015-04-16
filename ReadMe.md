@@ -9,7 +9,7 @@ This is a simple test for time zone for current time.
 
 ## Screenshots
 
-![Image of Yaktocat](Screenshots/ss1.png)
+![Screenshot](Screenshots/ss1.png =250x)
 
 ---
 
